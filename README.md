@@ -1,1 +1,2 @@
-# Discord-music-bot
+# Wiki bot
+  prefix: !
